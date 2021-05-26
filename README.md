@@ -14,13 +14,13 @@ A QR code uses four standarized encoding modes:
  to store data efficiently; extensions may also be used.
  
  
- The Quick Response system became popular outside the automotive industry due to its fast readability and greater storage capacity compared to standard UPC barcodes. 
+ The Quick Response system became popular outside the automotive industry due to its fast readability and greater storage capacity compared to standard UPC barcodes. <br>
 Applications include product tracking, item identification, time tracking, document management, and general marketing.
 
-A QR code consists of blacke squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera, and processed using Reed-Solomon error correction until the image can be appropriately interpreted.
+A QR code consists of blacke squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera, and processed using Reed-Solomon error correction until the image can be appropriately interpreted.<br>
 The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.
 
 
 
 
-code: https://github.com/KhomZ/QR-Generator-Python
+##code: https://github.com/KhomZ/QR-Generator-Python
